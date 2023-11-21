@@ -1,0 +1,19 @@
+body{
+    align-items: center;
+    text-align: center;
+    background: whitesmoke;
+}
+h2{
+    color: rgb(42, 165, 46);
+    margin-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    background: rgba(255, 0, 30, 0.81);
+    height: 30px;
+    width: 80px;
+    border-radius: 15px;
+    text-align: center;
+    color: bisque;
+    border: 2px solid yellowgreen;
+}
